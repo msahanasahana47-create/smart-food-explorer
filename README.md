@@ -1,5 +1,7 @@
 # Smart Food Explorer & Meal Planner
 
+A web app for discovering and comparing food products, with search, filters, favorites and a shopping list.
+
 A React + TypeScript product explorer built on the public [DummyJSON Products API](https://dummyjson.com/docs/products). No backend, no database.
 
 ## Run it
